@@ -60,7 +60,7 @@
     "Show MP Text": 0,
     "Auto Gold Enabled": 1,
     "Auto Party Invite": 1,
-    "Offline Difficulty Scaling": 3,
+    "Offline Difficulty Scaling": 8,
     "Default Key Bindings": 2,
     "Chat Gem Mode": 1,
     "Item Name Display": 0,
@@ -104,7 +104,7 @@
     "Lobby Wide Item Drop Enabled": 1,
     "Aux Battle.net": "216.148.246.35",
     "First Time": 1,
-    "User Last Online": 1654855281536415700,
+    "User Last Online": 1654868851208333400,
     "Tutorial": 3,
     "Help Menu": 1,
     "Always Run": 1
